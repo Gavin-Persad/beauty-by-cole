@@ -13,10 +13,10 @@
 - Clean up boilerplate code. ✅
 - Create a simple “Hello World” page to confirm everything is working. ✅
 
-## 4. Add Husky for Git Hooks
+## 4. Add Husky for Git Hooks✅
 
-- Install Husky to manage Git hooks.
-- Set up a pre-commit hook to ensure linting and build checks before committing.
+- Install Husky to manage Git hooks.✅
+- Set up a pre-commit hook to ensure linting and build checks before committing.✅
 
 ---
 
